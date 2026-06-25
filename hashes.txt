@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Une Nuit À Paris
+
+This log tracks the cryptographic history and versioning for the song **Une Nuit À Paris** (une-nuit-a-paris).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T13:25:45.515147 | `v1` | `9041043e97f0f498c667e9547850b28b266405d15143c197afd609d63eaeb966` | `63650d7853caf124320ff11247b9782b146510fb8afe3f152879ad82f04784e5` | `2026-06-25_une-nuit-a-paris-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
