@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-nuit-a-paris/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Une Nuit À Paris](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-nuit-a-paris/) |
+| **Get License** | [Official Music Licensing for Une Nuit À Paris](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-nuit-a-paris/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la ville lumière, ton parfum me rend fou
+> On cruise dans la nuit, y'a plus de règles pour nous
+> Tes lèvres ont le goût du risque, mon cœur bat le tempo
+> Bébé laisse-toi faire, oublie les autres et let's go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
